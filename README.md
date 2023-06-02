@@ -1,8 +1,7 @@
-![Black Blue Geometric Tips Business Youtube Channel Art](https://github.com/maksudchowdhury/maksudchowdhury/assets/45464612/d142191f-d777-40e7-9bea-61b52bf52eed)
-
+![image](https://github.com/maksudchowdhury/maksudchowdhury/assets/45464612/c9fba5b0-86f7-4621-b017-383a5e0ae3b9)
 
 <br>
-# 💫 About Me:
+## 💫 About Me:
 As a fresh graduate with 11 months of professional experience, I am a passionate Python developer skilled in Django, C/C++, PHP, Java, and JavaScript. With a strong foundation in web development and proficiency in HTML, CSS, and Bootstrap, I excel at creating robust and user-friendly applications. From collaborating with cross-functional teams to implementing responsive designs, I am dedicated to delivering high-quality solutions. With a Bachelor's Degree in Computer Science, I possess a solid theoretical background that complements my practical expertise. Seeking new opportunities to contribute to impactful projects, I am ready to leverage my skills and enthusiasm to make a difference in web development. Let's connect and bring innovative ideas to life.
 
 [![](https://visitcount.itsvg.in/api?id=maksudchowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
