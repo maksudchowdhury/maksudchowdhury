@@ -6,7 +6,7 @@ As a fresh graduate with 11 months of professional experience, I am a passionate
 [![](https://visitcount.itsvg.in/api?id=maksudchowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📖 What Am I Learning Currently:
-Curently I am learning some new techniques of data scrapping using different intelligent tool and smart aproach using python such as BeautifulSoup, Selenium etc. Moreover I am sharpening my skills and knowledge about Web server and Web services such as Apache, Amazon AWS, Lambda functions and so on. I am also learning about data processing and analysis from the scrapped data For which I am using Microsoft PowerBI. 
+Curently I am learning some new techniques of data scrapping using different intelligent tools and smart aproaches in python such as BeautifulSoup, Selenium etc. Moreover I am sharpening my skills and knowledge about Web server and Web services such as Apache, Amazon AWS, Lambda functions and so on. I am also learning about data processing and analysis from the scrapped data and for vizualizing I am learning Microsoft PowerBI. 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.chowdhury.792) &emsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maksudchowdhury) &emsp; [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codersshipp) 
 # 💻 Tech Stack:
