@@ -1,4 +1,5 @@
-![image](https://github.com/maksudchowdhury/maksudchowdhury/assets/45464612/e90cf122-0fae-4c42-a432-e1b7d24709a6)
+
+![githubBanner](https://github.com/maksudchowdhury/maksudchowdhury/assets/45464612/17faa160-bcb5-4af9-b702-3909fdbe7df5)
 
 
 ## 💫 About Me:
