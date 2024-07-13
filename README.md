@@ -4,6 +4,7 @@
 
 ## 💫 About Me:
 Software Engineer with over a year of professional experience, offering a unique blend of technical expertise and business acumen. Strong interpersonal skills and a collaborative mindset facilitate excelling in both individual and team settings. Thrives under pressure and driven by challenges. Seeking a role to leverage technical knowledge and business insights to contribute to organizational success.
+
 [![](https://visitcount.itsvg.in/api?id=maksudchowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📖 What Am I Learning Currently:
